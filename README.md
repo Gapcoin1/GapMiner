@@ -41,7 +41,7 @@ Plus, currently it's only for Linux. Sorry.
   git submodule init
   git submodule update --remote --merge
   make all
-  make install
+  sudo make install
 ```
 ## Usage
 ---
