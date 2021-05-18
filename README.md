@@ -54,7 +54,7 @@ Plus, currently it's only for Linux. Sorry.
 ## Usage
 ---
 
-  `gapminer [--options]`
+  gapminer -help
 
 ### basic
 
