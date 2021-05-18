@@ -39,7 +39,7 @@ Plus, currently it's only for Linux. Sorry.
   git clone https://gitlab.com/gapcoin/GapMiner.git
   cd GapMiner
   git submodule init
-  git submodule update
+  git submodule update --remote --merge
   make all
   make install
 ```
