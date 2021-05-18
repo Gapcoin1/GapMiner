@@ -40,6 +40,14 @@ Plus, currently it's only for Linux. Sorry.
   cd GapMiner
   git submodule init
   git submodule update --remote --merge
+
+  cd src/Evolution
+  git submodule init
+  git submodule update --remote --merge
+
+  cd ..
+  cd ..
+
   make all
   sudo make install
 ```
